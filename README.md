@@ -4,7 +4,9 @@
 
 # Who chrashed Facebook? 
 
-Facebook har crashat. Vems fel är det? 
+Facebook crashed, but who’s fault is it? 
 
-Ett gäng utvecklare har suttit och jobbat stenhårt med uppdateringar under natten. På plats finns webbutvecklare, it-support och designers. De jobbar mellan 21.00 och 04.00. Städarna jobbar mellan 04.00 och 07.00. Under sitt pass lägger de märke till att någon fifflar med en dator och när resten av de anställda anländer klockan 07.00 märker de att samtal till it-supporten ramlar in i hög hastighet. Användarna har problem med hemsidan. Någon gång mellan att utvecklarna gick och resten av de anställda anlände har något gått snett. Vad är det som har hänt? Kanske städarna har sett något … 
+The web developers of Facebook has been pulling an all nighter, working hard on getting the new updates ready by morning. Together with the usual staff of it-support and designers they work through the night and by early morning the new updates are up and running. Everything went smooth as butter! The whole team goes home to sleep by 04.00, about the same time as the crew of cleaners arrive to do their thing. With the office nice and clean and the updated version of the website live, the day-staff begin to drop in to work. But what is this? Suddenly a stream of complaints and phone-calls flood the it-support department. Angry users claim that the website doesn’t work … 
+
+Something must have happened during the time that the night staff left and day staff arrived. But what? Maybe the cleaners saw something suspicious during their shift …
 
