@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l1J9LVgNqSYv71Ag8/giphy-downsized-large.gif">
 
-# Who chrashed Facebook? 
+# Who crashed Facebook? 
 
 Facebook crashed, but who’s fault is it? 
 
