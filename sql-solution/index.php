@@ -14,11 +14,13 @@
         <div class="content">
             <form action="post.php" method="post">
                 <div>
-                    <label for="name">Solution</label>
+                    <label for="name">Solution:</label>
                     <input type="name" name="name">
+
+                    <button type="submit">Submit</button>
                 </div>
 
-                <button type="submit">Submit</button>
+
             </form>
         </div>
     </div>
