@@ -1,14 +1,3 @@
-<?php
-
-if (isset($_POST['name'])) {
-
-    $name = $_POST['name'];
-
-    echo "Your name is $name and your email is $email";
-}
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -26,7 +15,7 @@ if (isset($_POST['name'])) {
             <form action="post.php" method="post">
                 <div>
                     <label for="name">Solution</label>
-                    <input type="name" name="name" id="name">
+                    <input type="name" name="name">
                 </div>
 
                 <button type="submit">Submit</button>
