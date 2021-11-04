@@ -19,7 +19,7 @@
             <form action="post.php" method="post">
                 <div>
                     <label for="name">Solution</label>
-                    <input type="name" name="name">
+                    <input type="name" name="name" id="name">
                 </div>
 
                 <button type="submit">Submit</button>
