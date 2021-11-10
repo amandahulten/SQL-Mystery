@@ -11,6 +11,7 @@
 
 <body>
     <div class="container">
+        <h1>WHO CRASHED FACEBOOK?</h1>
         <div class="content">
             <form action="post.php" method="post">
                 <div>
@@ -19,6 +20,7 @@
 
                     <button type="submit">Submit</button>
                 </div>
+                <img src="https://thumbs.gfycat.com/AncientAmbitiousAlligator-max-1mb.gif" alt="">
 
 
             </form>

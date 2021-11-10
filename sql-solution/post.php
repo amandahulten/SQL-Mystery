@@ -1,15 +1,21 @@
 <?php
 
-$error = [];
+$message = "";
+
 
 if (isset($_POST['name'])) {
     $input = strtolower(filter_var($_POST['name'], FILTER_SANITIZE_STRING));
 
-    if ($input === "kevin systorm") {
-        echo "you found him!!!👍";
-    }
+    
+    if ($input === "kevin systrom") {
+        $message = "CASE SOLVED";
+        $img = "evil-kevin.jpg";
+    } 
     else {
-        echo "wrong";
+        $message = "WRONG PERSON";
+    }
+    if ($input == false) {
+        $message = "The input was empty";
     }
 }
 
@@ -25,6 +31,12 @@ if (isset($_POST['name'])) {
     <link rel="stylesheet" href="post.css">
 </head>
 <body>
-    
+    <div class="wrapper">
+    <div class="static-txt"></div>
+    <ul class="dynamic-txts">
+      <li><span><?= $message ?></span></li>
+    </ul>
+  </div>
+  <img src="<?= $img ?>" alt="">
 </body>
 </html>
