@@ -10,3 +10,5 @@ The web developers of Facebook has been pulling an all nighter, working hard on 
 
 Something must have happened during the time that the night staff left and day staff arrived. But what? Maybe the cleaners saw someone suspicious during their shift …
 
+# LINK TO CHECK SOLUTION
+https://eggie.love/sql-mystery/post.php
